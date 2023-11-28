@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Magazine Article Design",
+    "description": "Design made for the class Layout and Design",
+    "imgSrc": "../images/article.jpg",
+    "link": "Article"
+  },
+  {
+    "title": "Advertisement Design",
+    "description": "Metaphorical Ad for the product Old Spice, Wild West Edition",
+    "imgSrc": "../images/oldspicebillboard.png",
+    "link": ""
+  },
+  {
+    "title": "Album Cover Redesign",
+    "description": "Three Redesigns for the album Cowboys Don't Cry by Oliver Tree",
+    "imgSrc": "../images/albumcover.jpg",
+    "link": ""
+  },
+  {
+    "title": "Product Redesign",
+    "description": "Redesign of the product Old Spice, adding the concept: Wild West edition",
+    "imgSrc": "../images/bottleredesign.png",
+    "link": ""
+  },
+  {
+    "title": "Minimalist Tattoo Design",
+    "description": "Personal tattoo project which illustrates the visual concept of the music EP Man-Made Sunshine by Man-Made Sunshine",
+    "imgSrc": "../images/tattoo.jpg",
+    "link": ""
+  },
+  {
+    "title": "Box layout cover",
+    "description": "Redesign of the product Animal Crackers",
+    "imgSrc": "../images/crackers.jpg",
+    "link": ""
+  }	
+]
