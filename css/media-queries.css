@@ -6,6 +6,9 @@
   p.notice:after {
     content: " portait";
   }
+     .hvr-underline-from-center:before {
+  background:#f8f9fa;
+  }
 }
 
 

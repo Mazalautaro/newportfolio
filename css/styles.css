@@ -5,6 +5,9 @@
     :root {
     --mybrandcolor:orange;
     }
+ .hvr-underline-from-center:before {
+  background:#f8f9fa;
+  }
     
 /*a comment */
 .myplaceholder {
