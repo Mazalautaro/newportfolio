@@ -9,6 +9,10 @@
      .hvr-underline-from-center:before {
   background:#f8f9fa;
   }
+      a.navbar-brand span {
+  /*display:none;*/
+  font-size:16px !important;
+  }
 }
 
 
