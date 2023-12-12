@@ -34,5 +34,11 @@
     "description": "Redesign of the product Animal Crackers",
     "imgSrc": "../images/crackers.jpg",
     "link": ""
+  },
+  {
+    "title": "Box Redesign",
+    "description": "Redesign of soda box",
+    "imgSrc": "../images/redesignbox.png",
+    "link": "project2.html"
   }	
 ]
