@@ -1,5 +1,7 @@
 
 @import url(https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css);
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+@import url("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css");
 /* this is the stylesheet */
 
     :root {
@@ -10,6 +12,9 @@
 .myplaceholder {
 background: #eee;
 height:33vh;
+    background-image: url(../images/bannerbackg.jpg);
+    background-size: cover;
+    background-position: center;
 }
 p.my-caption {
     bottom:0;
@@ -29,4 +34,19 @@ a.active {font-weight: bold}
 
 h1,h2,h3,h5{
     color:var(--mybrandcolor) !important;
+    
 }
+.myteaser{
+    background: rgba(255,255,255,0.5);
+    background: rgba(0,0,0,0.5);
+
+    padding: 1rem;
+    
+}
+.myteaser p {
+    color:white;
+}
+ i[class^='devicon']{
+         font-size: 3rem;
+         margin-right:8px;
+     }
